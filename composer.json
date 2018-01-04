@@ -1,0 +1,23 @@
+{
+    "name": "qinlodestar/aliyun-php-sdk-green",
+    "description": "Aliyun Green SDK for PHP",
+    "keywords": [ "aliyun", "green", "sdk" ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/qinlodestar/aliyun-php-sdk-green",
+    "authors": [
+        {
+            "name": "qinlodestar",
+            "homepage": "https://github.com/qinlodestar/aliyun-php-sdk-green"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": [
+            "aliyun-php-sdk-green\\":"src/"
+        ]
+    }
+}
