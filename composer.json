@@ -16,8 +16,8 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": [
+        "psr-4":{ 
             "aliyun-php-sdk-green\\":"src"
-        ]
+        } 
     }
 }
